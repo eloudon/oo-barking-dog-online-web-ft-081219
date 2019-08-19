@@ -1,4 +1,7 @@
 # Your code goes here!
+
+#Setter and Getter = Writer and Reader
+
 class Dog
 def bark
   puts "Woof!"
